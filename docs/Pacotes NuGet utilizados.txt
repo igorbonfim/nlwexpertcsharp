@@ -1,0 +1,7 @@
+## Pacotes instalados com NuGet Packages
+
+- Microsoft.EntityFrameworkCore
+- Microsoft.EntityFrameworkCore.Sqlite
+- FluentAssertions
+- Moq
+- Bogus
